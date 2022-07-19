@@ -2,3 +2,6 @@ mongo_note.nnb
 index.js
 main.js
 index.html
+dist/*
+dist
+.parcel-cache
