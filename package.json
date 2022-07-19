@@ -8,7 +8,7 @@
     "start": "parcel ./index.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adebayo",
   "license": "ISC",
   "dependencies": {
     "@azure/storage-blob": "^12.10.0",
