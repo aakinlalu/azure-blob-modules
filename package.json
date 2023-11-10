@@ -14,7 +14,7 @@
     "@azure/storage-blob": "^12.10.0",
     "dotenv": "^16.0.1",
     "exceljs": "^4.3.0",
-    "mongodb": "^4.7.0",
+    "mongodb": "^4.17.0",
     "parcel": "^2.6.2",
     "uuid": "^8.3.2"
   },
